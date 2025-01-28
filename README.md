@@ -31,8 +31,8 @@ This project title and steps were generated using ChatGPT on Tuesday, January 28
 
 #### Data Collection
 
-🔵 Explore Capital Bikeshare and UCI Bike Sharing datasets 
-⚪ Explore public weather datasets
+🔵 Explore Capital Bikeshare and UCI Bike Sharing datasets  
+⚪ Explore public weather datasets  
 ⚫ Download chosen datasets
 
 #### Data Cleaning
