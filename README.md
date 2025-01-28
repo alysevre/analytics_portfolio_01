@@ -31,9 +31,11 @@ This project title and steps were generated using ChatGPT on Tuesday, January 28
 
 #### Data Collection
 
-🔵 001 Explore Capital Bikeshare and UCI Bike Sharing datasets  
-⚪ 002 Explore public weather datasets  
-⚫ 003 Download chosen datasets (001)
+🟢 001 Explore Capital Bikeshare and UCI Bike Sharing datasets[^1]  
+🔵 002 Explore public weather datasets  
+⚪ 003 Download chosen datasets (001)
+
+[^1]: Decided to use Austin public bikeshare trip data (`bigquery-public-data.austin_bikeshare.bikeshare_trips`) available on Google BigQuery.
 
 #### Data Cleaning
 
